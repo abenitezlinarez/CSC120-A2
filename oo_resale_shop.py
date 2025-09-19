@@ -84,5 +84,6 @@ def main():
     print("Done.\n")
 
     #my_shop.sell(computer_id)
+    print("hi")
 
 main()

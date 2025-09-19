@@ -16,13 +16,13 @@ This repository contains starter code for A2: Object-ification, developed for CS
   **Step 1**: Fork this repository so you (and your partners, if applicable) have your own copy of this code.
   
   **Step 2**: Fill in the class definitions in `computer.py` and `oo_resale_shop.py` with the appropriate functionality from the provided procedural code, re-written using Object-Oriented Programming techniques. Consider carefully which classes should be responsible for which behaviors / information:
-  - storing information about a specific computer
-  - storing the inventory for the store
-  - updating a computer's price
-  - updating a computer's OS
-  - buying a computer (add to inventory)
-  - selling a computer (remove from inventory)
-  - refurbishing a computer
+  - storing information about a specific computer (comp)
+  - storing the inventory for the store (shop)
+  - updating a computer's price (shop)
+  - updating a computer's OS (shop)
+  - buying a computer (add to inventory) (shop)
+  - selling a computer (remove from inventory) (shop)
+  - refurbishing a computer (shop)
 
  **Step 3**: Be sure to test your code! The items contained in `rubric.md` are a useful guide.
  

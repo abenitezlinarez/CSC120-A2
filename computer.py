@@ -1,3 +1,5 @@
+#This class is the framework for the computer object. 
+#It gives the basic details of the computer object and a small method for prining a description of the computer
 class Computer:
 # lines 4-10 list all the attributes the computer class stores
     description: str
@@ -21,14 +23,5 @@ class Computer:
         self.computer_id = computer_id
     def printComputer(self):
         print(self.description)
-#main allows us to run and test code, commented parts are where I've tested code    
     
-    # First, let's make a computer
-    # Add it to the resale store's inventory
- 
 
-    # Make sure it worked by checking inventory
-
-   
-
-# Calls the main() function when this file is run
